@@ -3,7 +3,8 @@ title: Simon's Blog
 header-img: img/home-bg.jpg
 email: phpip.simon@gmail.com
 copyright_name: fyee
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "一个技术宅的技术记录"
+keywords: "php js linux docker"
 baseurl: ""
 url: "https://fyee.github.io"
 twitter_username: SBootstrap
@@ -23,3 +24,6 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
+
+kramdown:
+  input: GFM
