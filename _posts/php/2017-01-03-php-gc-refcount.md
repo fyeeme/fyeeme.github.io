@@ -12,8 +12,8 @@ categories: php
 
 ### 垃圾回收机制
 
-* 引用计数基本知识
-* 回收周期(Collecting Cycles)
+* <a href="/php/2017/01/03/php-gc-refcount/">引用计数基本知识</a>
+* <a href="/php/2017/01/03/php-gc-collecting-cycles/">回收周期(Collecting Cycles)</a>
 * 性能方面考虑的因素
 
 <h3 class="section-heading">1.1 引用计数基本知识</h3>

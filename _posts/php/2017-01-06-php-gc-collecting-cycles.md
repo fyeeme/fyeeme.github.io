@@ -12,8 +12,8 @@ categories: php
 
 ### 垃圾回收机制
 
-* 引用计数基本知识
-* 回收周期(Collecting Cycles)
+* <a href="/php/2017/01/03/php-gc-refcount/">引用计数基本知识</a>
+* <a href="/php/2017/01/03/php-gc-collecting-cycles/">回收周期(Collecting Cycles)</a>
 * 性能方面考虑的因素
 
 <p>php5.3以前使用的引用计数器内存机制，无法处理循环的引用内存泄漏。而php5.3使用了《引用计数系统中的同步周期回收》中的同步算法，来处理这个内存泄漏的问题.</p>
