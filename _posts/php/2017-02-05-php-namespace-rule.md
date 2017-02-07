@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "php命名空间解析规则, 基础篇"
+title:      "php命名空间解析规则-基础篇"
 subtitle:   "命名空间是php5.3中最重要的改进之一，对于C#和Java的开发者可能对他们非常熟悉。而这将很可能是的php的应用结构更加合理"
 date:       2017-01-03 12:00:00
 author:     "Allen Lau"
