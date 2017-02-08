@@ -3,7 +3,7 @@ layout:     post
 title:      "php内存回收机制 - 回收周期"
 subtitle:   "垃圾回收机制是一种动态存储分配方案。它会自动释放程序不再需要的已分配的内存块。自动回收内存的过程叫垃圾收集。垃圾回收机制可以让程序员不必过分关心程序内存分配，从而将更多的精力投入到业务逻辑"
 date:       2017-01-03 12:00:00
-author:     "Allen Lau"
+author:     "Simon Lau"
 header-img: "img/post-bg-01.jpg"
 keywords: "php gc php内存回收"
 tags: gc
