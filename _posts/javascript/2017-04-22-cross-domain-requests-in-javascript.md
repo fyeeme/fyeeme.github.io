@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      js跨域请求"
+subtitle:   "这本书从理论上讲解了计算机程序的创建, 执行和研究。也是我一直所好奇的"
+date:       2017-04-22 16:00:00
+author:     "Allen Lau"
+header-img: "img/post-bg-01.jpg"
+keywords: "sicp Lisp 计算机程序的构造和解释"
+tags: scip
+categories: sicp
+---
+
+
+<p>sicp 主要内容包括: 构造过程抽象，构造数据抽象，模块化，对象和状态，元语言抽象，寄存器机器里面的计算等。这本书美国麻省理工学员计算机科学专业的入门课程，值得已读</p>
+
+<p>这本书的读书笔记会以目录的形式更新在本文中</p>
